@@ -15,7 +15,7 @@ We are tasked with building an ETL pipeline that extracts their data from S3, pr
 
 #### Data description and Gathering
 
-##### Datasets
+#### Datasets
 * I94 Immigration Data: This data comes from the US National Tourism and Trade Office.In the past all foreign visitors to the U.S. arriving via air or sea were required to complete paper Customs and Border Protection Form I-94 Arrival/Departure Record or Form I-94W Nonimmigrant Visa Waiver Arrival/Departure Record and this dataset comes from this forms.
   Contains SAS format data.
 
@@ -25,7 +25,7 @@ We are tasked with building an ETL pipeline that extracts their data from S3, pr
 * Airport Code Table: This is a simple table of airport codes and corresponding cities. 
   Contains CSV format data.
 
-##### Tools
+#### Tools
 * Python: for algorithm
 * Pandas: exploratory data analysis on small data set
 * AWS S3: data storage
