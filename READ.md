@@ -98,3 +98,6 @@ Performed by the following functions:
 check_count_dataset_to_spark(): This function performs data quality check on rows loaded from datasets files to Spark.
 
 check_count_table_to_s3(): This function performs data quality check on rows loaded from dimensions and fact tables to s3.
+
+
+### capstone_ETL file contains all the code with detailed comments
