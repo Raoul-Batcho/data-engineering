@@ -82,9 +82,13 @@ We are tasked with building an ETL pipeline that extracts their data from S3, pr
 #### 3.2 Mapping Out Data Pipelines
 
 The data are modelized by the pipline() function that runs the following functions under the wood: 
+
     1-  process_cities_data()
+    
     2-  process_airport_data()
+    
     3-  process_immigrant_data()
+    
     4-  process_immigration_data()
     
     
