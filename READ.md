@@ -6,7 +6,7 @@ Capstone, a startup has grown their data warehouse and want to move their data i
 
 We are tasked with building an ETL pipeline that extracts their data from S3, processes them using Spark, and loads the data back into S3 as a set of dimensional tables and fact table. This will allow their analytics team to continue finding insights such as the date, duration of immigration in terms of number of days, weeks, months, years for example, immigrants data such as the visa type, the mode of immigration and cities demographics and the airports in the respective cities as well.
 
-####The project follows the following steps:
+#### The project follows the following steps:
 * Step 1: Scope the Project and Gather Data
 * Step 2: Explore and Assess the Data
 * Step 3: Define the Data Model
@@ -31,7 +31,7 @@ We are tasked with building an ETL pipeline that extracts their data from S3, pr
 * AWS S3: data storage
 * PySpark: data processing on large data set
 
-###Conceptual Data Model
+### Conceptual Data Model
 
 #### Dimension tables:
 ##### cities_table
